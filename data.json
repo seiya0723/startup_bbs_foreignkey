@@ -1,0 +1,5 @@
+[
+    {"model": "bbs.category", "pk": 1, "fields": {"name": "Django"}},
+    {"model": "bbs.category", "pk": 2, "fields": {"name": "Python"}},
+    {"model": "bbs.category", "pk": 3, "fields": {"name": "Flask"}}
+]
